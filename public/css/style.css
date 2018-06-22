@@ -1,0 +1,4 @@
+.flaot-right {float:right;}
+.content-wrapper {position: relative;}
+.content .overlay {position: absolute;top: 0;bottom: 0;left: 0;right: 0;background: rgba(0,0,0,0.5);z-index: 50;display: none;}
+.content .overlay i {position: absolute; top: 50%; left: 50%; margin-left: -15px; margin-top: -15px; color: #fff; font-size: 60px;}
